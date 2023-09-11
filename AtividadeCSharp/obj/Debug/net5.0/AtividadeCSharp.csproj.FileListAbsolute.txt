@@ -1,0 +1,16 @@
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\bin\Debug\net5.0\AtividadeCSharp.exe
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\bin\Debug\net5.0\AtividadeCSharp.deps.json
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\bin\Debug\net5.0\AtividadeCSharp.runtimeconfig.json
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\bin\Debug\net5.0\AtividadeCSharp.runtimeconfig.dev.json
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\bin\Debug\net5.0\AtividadeCSharp.dll
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\bin\Debug\net5.0\ref\AtividadeCSharp.dll
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\bin\Debug\net5.0\AtividadeCSharp.pdb
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.csproj.AssemblyReference.cache
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.AssemblyInfoInputs.cache
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.AssemblyInfo.cs
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.csproj.CoreCompileInputs.cache
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.dll
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\ref\AtividadeCSharp.dll
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.pdb
+D:\Faculdade\AtividadeCSharp\AtividadeCSharp\obj\Debug\net5.0\AtividadeCSharp.genruntimeconfig.cache
